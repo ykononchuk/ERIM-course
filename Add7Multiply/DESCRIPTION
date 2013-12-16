@@ -1,0 +1,9 @@
+Package: Add7Multiply
+Type: Package
+Title: Adds 7 to the first argument and multiplies the sum on the second argument
+Version: 1.0
+Date: 2013-12-10
+Author: Yulia Kononchuk
+Maintainer: Yulia Kononchuk <kononchuk@rsm.nl>
+Description: A demo package for the RSM Programming course
+License: GPL (>= 2)
